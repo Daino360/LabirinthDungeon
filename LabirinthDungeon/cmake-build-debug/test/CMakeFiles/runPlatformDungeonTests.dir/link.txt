@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/runPlatformDungeonTests.dir/runAllTests.cpp.o CMakeFiles/runPlatformDungeonTests.dir/PlatformDungeonTest.cpp.o  -o runPlatformDungeonTests lib/googletest/libgtest.a lib/googletest/libgtest_main.a ../libcore.a lib/googletest/libgtest.a 

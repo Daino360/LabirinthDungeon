@@ -1,0 +1,6 @@
+/home/daino/Documenti/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/daino/Scrivania/PlatformDungeon_2.0
+-- Could NOT find Threads (missing:  Threads_FOUND) 
+-- Found SFML 2.3.2 in /usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/daino/Scrivania/PlatformDungeon_2.0/cmake-build-debug
